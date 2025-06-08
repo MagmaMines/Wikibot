@@ -48,5 +48,5 @@ For help, updates, or to contribute, visit our official website:
 We welcome your feedback and contributions!
 
 ---
-Help : **help.magmamines@gmail.com**
+Help : **help.magmamine@gmail.com**
 Made with ❤️ by **MagmaMines** — Explore. Learn. Innovate.
