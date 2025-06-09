@@ -18,7 +18,6 @@
 
 ### Why Choose WIKIBOT?
 
-* No ads, no clutter — just pure knowledge at your fingertips.
 * Lightweight, fast-loading, and easy to use.
 * Developed with passion and care by **MagmaMines**.
 * Ideal for students, professionals, bloggers, and knowledge seekers everywhere.
